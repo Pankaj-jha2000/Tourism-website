@@ -1,5 +1,5 @@
 # Tourism-website
 Output:
-![Home page](https://github.com/Pankaj-jha2000/Tourism-website/assets/62105964/482a9e43-44d7-4931-a835-4460e0e5e8b6)
-![Places page](https://github.com/Pankaj-jha2000/Tourism-website/assets/62105964/239c7b1c-4f08-4487-b044-ae68c39cfd1e)
-![Aboutsus page](https://github.com/Pankaj-jha2000/Tourism-website/assets/62105964/96e7cadd-99ce-4026-b17b-7b81b41c0f3a)
+![Home page !](https://github.com/Pankaj-jha2000/Tourism-website/assets/62105964/d74e2273-bff7-4fc1-90a4-f8c365fe58f5)
+![Places page](https://github.com/Pankaj-jha2000/Tourism-website/assets/62105964/a488de95-aa66-4599-80e4-4fcb341365ad)
+![Aboutsus page](https://github.com/Pankaj-jha2000/Tourism-website/assets/62105964/d89f9de8-e0e1-4a20-84f1-4f577a13f55d)
